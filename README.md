@@ -1,4 +1,4 @@
-# Projeto Padaria do Bolinho. 
+# Projeto Padaria do Bolinha. 
 Construir um código que contenha:
 
 nota: 1,5 -  Operações com as variáveis (Expressões & Operadores); 
